@@ -1,0 +1,1 @@
+export { NearAnonCredsRegistry } from './anoncreds'
